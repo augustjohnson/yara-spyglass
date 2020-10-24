@@ -1,2 +1,4 @@
 https://augustjohnson.net
 https://duckduckgo.com
+https://api.open5e.com
+https://open5e.com
